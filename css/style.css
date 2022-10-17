@@ -29,3 +29,16 @@
     display:inline-block;
     color: rgb(11, 172, 226);
 }
+header{
+    margin-bottom: 30px;
+}
+.lorem{
+    display: inline-block;
+}
+.highlight{
+    background-color: yellow;
+    display: inline-block;
+}
+.paragrafo{
+    margin: 20px 0;
+}
